@@ -5,3 +5,4 @@ class SuperPuper:
     pass
 for i in range(10):
     pass
+#все объединили
